@@ -1,0 +1,16 @@
+    yMax=5;
+    xMax=5;
+    int b[yMax][xMax];
+
+    int anfang[5][5] = {{1,0,1,0,1},{1,1,0,0,0},{1,0,0,0,1},{0,1,0,0,1},{0,0,1,0,1}};
+
+    int i,j;
+    for(i=0; i<yMax; i++){
+            for(j=0;j<xMax;j++){
+                printf("  %d  ",anfang[i][j]);
+            }
+            printf("\n");
+        }
+    printf("\n");
+
+	berechnung(anfang,b, xMax, yMax);

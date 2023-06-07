@@ -1,0 +1,15 @@
+
+Zeilen: 50
+Spalten: 100
+Schritt: 0
+Schritte: 1000
+Pause: 1 s
+
+
+Animations-Puffer:
+....x...x.
+xx.xxxx.xx
+..x....x..
+....xx...x
+xxxxxxxxxx
+.....x.x..
