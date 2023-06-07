@@ -1,6 +1,6 @@
 /* BOF MAIN_C
  Praktikumsversuch: Einführung in die Sprache C
- Haupt-Programm
+ Haupt-Programm, hallo das ist ein probiertes Lebenszeichen
  */
 #include "graphic.h"
 #include "config.h"
